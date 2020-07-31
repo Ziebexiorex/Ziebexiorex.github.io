@@ -7,7 +7,7 @@
 		$headers  = 'MIME-Version: 1.0' . "\r\n";
 		$headers .= 'Content-type: text/plain; charset=utf-8' . "\r\n";
 		$headers .= 'From: <'.$email.'>' . "\r\n";
-		$to = 'agatazieba@op.pl'; 
+		$to = 'mediatoragatazieba@gmail.com'; 
 		$subject = 'Formularz kontaktowy - mediatoragatazieba.pl';
 		
 		$body ="Wiadomość od użytkownika $name tel. $telefon email: $email \r\n\r\n Treść:\r\n $message";
