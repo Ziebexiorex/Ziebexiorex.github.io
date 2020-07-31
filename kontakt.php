@@ -79,7 +79,7 @@
                         <ul>
                             <li><i class="fas fa-map-marker-alt"></i> Podlipie 27</li>
                             <li><i class="fas fa-phone"></i> Tel: 608 623 790</li>
-                            <li><i class="fas fa-envelope"></i> agatazieba@op.pl</li>
+                            <li><i class="fas fa-envelope"></i>mediatoragatazieba@gmail.com</li>
                         </ul>
                     </div>
                 </div>
@@ -91,6 +91,10 @@
 
         <!--###############################-->
         <!-- MENU #########################-->
+	    
+	    
+	    
+	 
         <!--###############################-->
 
         <nav class="navbar navbar-default" role="navigation">
@@ -165,7 +169,7 @@
                             <ul class="contact-list">
                                 <li><i class="fas fa-map-marker-alt"></i> Podlipie 27</li>
                                 <li><i class="fas fa-phone"></i> Tel: 608 623 790</li>
-                                <li><i class="fas fa-envelope"></i> agatazieba@op.pl</li>
+                                <li><i class="fas fa-envelope"></i> mediatoragatazieba@gmail.com</li>
                             </ul>
                             <p>"Zgoda buduje, a niezgoda rujnuje"</p><p>Tracimy nie tylko pieniądze ale i zdrowie a zdrowie jest jedną z najważniejszych wartości dla człowieka. Ponieważ człowiek zdrowy jest szczęśliwy, a tego wszyscy chcemy i sobie życzymy. Nie ma sytuacji bez wyjścia, wszystko można rozwiązać tylko trzeba razem porozmawiać.</p><p>Serdecznie zapraszam na spotkanie.</p>
 
